@@ -1,6 +1,6 @@
 @media screen and (max-width: 1100px) {
     body {
-        background-color: red;
+        /* background-color: red; */
     }
 
     nav {
@@ -11,6 +11,20 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        margin: 11px 0;
+        margin: 9px 0;
+    }
+
+    nav ul{
+        justify-content: center;
+        height: 14px;
+    }
+    .search{
+        justify-content: center;
+    }
+    .search input{
+        margin: 11px 12px;
+    }
+    .slider{
+        height: 32vh;
     }
 }

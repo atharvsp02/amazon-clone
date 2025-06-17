@@ -45,6 +45,7 @@ nav ul li a:hover {
 }
 
 .logo {
+    height: 65px;
     display: flex;
     align-items: center;
 }
@@ -75,7 +76,7 @@ nav ul li a:hover {
 
 .container {
     min-height: calc(100vh - 65px - 11vh);
-    /* background-color: #E3E6E6; */
+    background-color: #E3E6E6;
 }
 
 .slider {
@@ -87,7 +88,7 @@ nav ul li a:hover {
 .slider img {
     height: 400px;
     width: 900px;
-    margin: 59px 0;
+    margin: 14px 0;
 
 }
 
